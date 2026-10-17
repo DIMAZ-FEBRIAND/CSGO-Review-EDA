@@ -25,7 +25,7 @@ Proyek ini bertujuan untuk melakukan Exploratory Data Analysis (EDA) terhadap da
 - Korelasi antara jumlah upvote dan jumlah komentar tergolong kuat pada dataset ini.
 
 ## File Proyek
-- `Tugas_EDA_CSGO.ipynb`: kode analisis dan visualisasi.
+- `Analisis_Ulasan_Pemain_CSGO.ipynb`: kode analisis dan visualisasi.
 - `csgo_steam_reviews.csv`: dataset, jika disertakan dan diizinkan oleh lisensinya.
 
 ## Sumber Dataset
